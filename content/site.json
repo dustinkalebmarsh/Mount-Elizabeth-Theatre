@@ -224,19 +224,14 @@
       "role": "Theatre Manager"
     },
     {
-      "id": "kerri",
-      "name": "Kerri Sorenson",
-      "role": "Casual Administrative"
+      "id": "Dustin",
+      "name": "Dustin Marsh",
+      "role": "Theatre Head Technician / Admin"
     },
     {
-      "id": "graham-dustin",
-      "name": "Graham Gueguen / Dustin Marsh",
-      "role": "Theatre Head Technicians"
-    },
-    {
-      "id": "amanda",
-      "name": "Amanda Smetaniuk",
-      "role": "Casual Administrative"
+      "name": "Graham Gueguen ",
+      "role": "Theatre Head Technician",
+      "id": "Graham"
     }
   ]
 }

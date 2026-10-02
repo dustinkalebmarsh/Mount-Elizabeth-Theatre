@@ -1,0 +1,71 @@
+backend:
+  name: github
+  repo: __MET_CMS_REPO__
+  branch: main
+
+media_folder: static/uploads
+public_folder: /uploads
+
+collections:
+  - name: website
+    label: Website
+    files:
+      - name: content
+        label: Theatre website
+        file: content/site.json
+        format: json
+        fields:
+          - { label: Theatre name, name: headline, widget: string }
+          - { label: Motto, name: motto, widget: string }
+          - { label: Hero introduction, name: intro, widget: string }
+          - { label: Hero photo, name: heroImage, widget: image }
+          - { label: About us, name: about, widget: text }
+          - { label: Address, name: address, widget: string }
+          - { label: Phone, name: phone, widget: string }
+          - { label: Email, name: email, widget: string }
+          - label: Events
+            name: events
+            widget: list
+            summary: "{{fields.date}} — {{fields.title}}"
+            fields:
+              - { label: URL slug, name: id, widget: string, hint: "Lowercase letters, numbers and hyphens only. Example: spring-concert" }
+              - { label: Date, name: date, widget: datetime, date_format: YYYY-MM-DD, time_format: false, format: YYYY-MM-DD }
+              - { label: Time, name: time, widget: string }
+              - { label: Title, name: title, widget: string }
+              - { label: Show writeup, name: description, widget: text, required: false }
+              - { label: Poster or photo, name: image, widget: image, required: false }
+              - { label: YouTube clip URL, name: youtubeUrl, widget: string, required: false }
+              - { label: Feature on home page, name: featured, widget: boolean, default: false }
+              - { label: Show ticket link, name: showTicketLink, widget: boolean, default: false }
+              - { label: Ticket URL, name: url, widget: string, required: false }
+              - { label: Ticket button text, name: ticketLabel, widget: string, required: false }
+          - label: Theatre photos
+            name: theatrePhotos
+            widget: list
+            fields:
+              - { label: Photo, name: url, widget: image }
+              - { label: Caption, name: caption, widget: string, required: false }
+          - label: Theatre specifications
+            name: specs
+            widget: list
+            fields:
+              - { label: ID, name: id, widget: string }
+              - { label: Section title, name: title, widget: string }
+              - { label: Details, name: body, widget: text }
+          - label: Plans and plots
+            name: gallery
+            widget: list
+            field: { label: Image, name: image, widget: image }
+          - label: Files and downloads
+            name: documents
+            widget: list
+            fields:
+              - { label: File name, name: name, widget: string }
+              - { label: File, name: url, widget: file }
+          - label: Operations team
+            name: team
+            widget: list
+            fields:
+              - { label: ID, name: id, widget: string }
+              - { label: Name, name: name, widget: string }
+              - { label: Role, name: role, widget: string }

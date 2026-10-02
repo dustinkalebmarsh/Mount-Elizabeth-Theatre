@@ -1,154 +1,16 @@
 {
-  "headline": "Mount Elizabeth Theatre",
-  "motto": "Fostering Excellence-Building Community",
-  "intro": "Kitimat’s home for the performing arts.",
   "heroImage": "/theatre-stage.jpg",
+  "intro": "Kitimat’s home for the performing arts.",
+  "motto": "Fostering Excellence-Building Community",
   "about": "The Mount Elizabeth Theatre is Kitimat’s home for the performing arts. It is a joint-use facility of Coast Mountains School District 82 and the District of Kitimat. Our 500-seat auditorium is intimate and flexible, equally suited to musicals, concerts, dance, film, conferences, ceremonies and community gatherings. Performers and presenters can rely on professional sound and lighting, dedicated dressing rooms and a concert grand piano. Patrons enjoy accessible seating and on-site parking. The MET continues to evolve, driven by strong partnerships, and a shared vision of keeping live arts alive and accessible in Kitimat.",
-  "address": "1491 Kingfisher Ave, Kitimat, BC",
   "phone": "250-632-7887",
-  "email": "metconcerts@gmail.com",
-  "events": [
-    {
-      "id": "forum",
-      "date": "2026-10-01",
-      "month": "OCT",
-      "day": "01",
-      "time": "7:00 PM",
-      "title": "All Candidates Forum",
-      "description": "The Kitimat All Candidates Forum gives residents a chance to hear from local candidates before the municipal election. Candidates will discuss community issues and answer questions. Attend in person or watch the live stream.",
-      "image": "/forum.png",
-      "url": "https://www.metconcerts.com/event-details/all-candidates-forum",
-      "featured": true,
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information"
-    },
-    {
-      "id": "banff",
-      "date": "2026-10-02",
-      "month": "OCT",
-      "day": "02",
-      "time": "7:00 PM",
-      "title": "Banff Mountain Film Festival 2026",
-      "description": "The Banff Mountain Film Festival brings an evening of adventure films to the big screen at the MET.",
-      "image": "/banff.png",
-      "url": "https://www.metconcerts.com/event-details/banff-mountain-film-festival-2026",
-      "featured": true,
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information"
-    },
-    {
-      "id": "telethon",
-      "date": "2026-10-18",
-      "month": "OCT",
-      "day": "18",
-      "time": "12:00–8:30 PM",
-      "title": "The Annual Community Telethon",
-      "description": "The Annual Community Telethon has supported local organizations and programs since 1979. This annual fundraiser helps the Kitimat Community Foundation respond to immediate needs and build long-term community funds.",
-      "image": "/telethon.jpg",
-      "url": "https://www.metconcerts.com/event-details/the-annual-community-telethon-2",
-      "featured": false,
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information"
-    },
-    {
-      "id": "kaeshammer",
-      "date": "2026-10-23",
-      "month": "OCT",
-      "day": "23",
-      "time": "7:30 PM",
-      "title": "KCA Presents: Michael Kaeshammer",
-      "description": "Pianist and songwriter Michael Kaeshammer brings his expressive, genre-spanning sound to the MET for a Kitimat Concert Association performance.",
-      "image": "/kaeshammer.jpg",
-      "url": "https://www.metconcerts.com/event-details/kca-presents-michael-kaeshammer",
-      "featured": false,
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information"
-    },
-    {
-      "id": "full-circle",
-      "date": "2026-10-24",
-      "month": "OCT",
-      "day": "24",
-      "time": "7:00 PM",
-      "title": "Full Circle (Taylor Bacharach)",
-      "description": "A lighthearted documentary following Taylor Bacharach’s self-propelled canoe trip from Smithers through the Northwest.",
-      "image": "/full-circle.png",
-      "url": "https://www.metconcerts.com/event-details/full-circle-taylor-bacharach",
-      "featured": false,
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information"
-    },
-    {
-      "id": "burnstick",
-      "date": "2026-11-09",
-      "month": "NOV",
-      "day": "09",
-      "time": "7:30 PM",
-      "title": "KCA Presents: Burnstick",
-      "description": "Burnstick is the folk duo of Jason and Nadia Burnstick. Lap slide guitar, poetic songwriting and close harmonies carry songs about love, loss and belonging.",
-      "image": "/burnstick.jpg",
-      "url": "https://www.metconcerts.com/event-details/kca-presents-burnstick",
-      "featured": false,
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information"
-    },
-    {
-      "id": "casey",
-      "date": "2026-12-08",
-      "month": "DEC",
-      "day": "08",
-      "time": "7:30 PM",
-      "title": "KCA Presents: Casey Thomas",
-      "description": "Casey Thomas brings a lively blend of Golden Age jazz and New Orleans spirit to the stage, with vocals and performances full of warmth and energy.",
-      "image": "/casey.jpg",
-      "url": "https://www.metconcerts.com/event-details/kca-presents-casey-thomas",
-      "featured": false,
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information"
-    },
-    {
-      "id": "ollee",
-      "date": "2027-01-15",
-      "month": "JAN",
-      "day": "15",
-      "time": "7:30 PM",
-      "title": "KCA Presents: Ollee Owens",
-      "description": "Calgary-based Ollee Owens blends blues rock intensity with soulful vocals and songwriting for an emotionally charged live show.",
-      "image": "/ollee.jpg",
-      "url": "https://www.metconcerts.com/event-details/kca-presents-ollee-owens",
-      "featured": false,
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information"
-    },
-    {
-      "id": "swan-lake",
-      "date": "2027-02-26",
-      "month": "FEB",
-      "day": "26",
-      "time": "7:00 PM",
-      "title": "KCA Presents: Ballet Jörgen – Swan Lake",
-      "description": "Ballet Jörgen reimagines Swan Lake with a Canadian setting inspired by the Fortress of Louisbourg in Nova Scotia, while preserving the beauty and drama of the classical ballet.",
-      "image": "/swan-lake.jpg",
-      "url": "https://www.metconcerts.com/event-details/kca-presents-ballet-jorgen-swan-lake",
-      "featured": false,
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information"
-    },
-    {
-      "id": "motown",
-      "date": "2027-04-01",
-      "month": "APR",
-      "day": "01",
-      "time": "7:30 PM",
-      "title": "KCA Presents: Krystle Dos Santos’ “A History of Motown”",
-      "description": "Krystle Dos Santos presents A History of Motown, bringing her powerful voice and stage presence to the music and stories of the era.",
-      "image": "/motown.jpg",
-      "url": "https://www.metconcerts.com/event-details/kca-presents-krystle-dos-santos-a-history-of-motown",
-      "featured": false,
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information"
-    }
+  "gallery": [
+    "/theatre-spec-1.png",
+    "/theatre-spec-2.png",
+    "/theatre-spec-3.png"
   ],
+  "headline": "Mount Elizabeth Theatre",
+  "address": "1491 Kingfisher Ave, Kitimat, BC",
   "specs": [
     {
       "id": "stage",
@@ -196,12 +58,164 @@
       "body": "(5) Shure SM57 Instrument Microphones\n(8) Shure SM58 Vocal Microphones\n(2) Shure SM81 Condenser Instrument Microphones\n(4) Shure SM86 Condenser Vocal Microphones\n(2) Shure SM94 Condenser Instrument Microphones\n(4) Shure EZO Easyflex Overhead Microphones (hung)\n(1) Shure Beta 52A Kick Drum Mic\n(3) AKG D880 Vocal Microphones\n(1) AKG D3800 Vocal Microphone\n(4) Sennheiser e604 Drum Mics"
     }
   ],
-  "gallery": [
-    "/theatre-spec-1.png",
-    "/theatre-spec-2.png",
-    "/theatre-spec-3.png"
+  "theatrePhotos": [
+    {
+      "url": "/theatre-auditorium.jpg",
+      "caption": "The auditorium"
+    },
+    {
+      "url": "/theatre-stage.jpg",
+      "caption": "The stage and seating"
+    },
+    {
+      "url": "/theatre-sound-console.jpg",
+      "caption": "Sound control at the MET"
+    }
   ],
   "documents": [],
+  "events": [
+    {
+      "month": "OCT",
+      "showTicketLink": false,
+      "ticketLabel": "Tickets & more information",
+      "time": "7:00 PM",
+      "featured": true,
+      "date": "2026-10-01",
+      "url": "https://www.metconcerts.com/event-details/all-candidates-forum",
+      "title": "All Candidates Forum",
+      "id": "forum",
+      "image": "/forum.png",
+      "day": "01",
+      "description": "The Kitimat All Candidates Forum gives residents a chance to hear from local candidates before the municipal election. Candidates will discuss community issues and answer questions. Attend in person or watch the live stream."
+    },
+    {
+      "month": "OCT",
+      "showTicketLink": false,
+      "ticketLabel": "Tickets & more information",
+      "time": "7:00 PM",
+      "featured": true,
+      "date": "2026-10-02",
+      "url": "https://www.metconcerts.com/event-details/banff-mountain-film-festival-2026",
+      "title": "Banff Mountain Film Festival 2026",
+      "id": "banff",
+      "image": "/banff.png",
+      "day": "02",
+      "description": "The Banff Mountain Film Festival brings an evening of adventure films to the big screen at the MET."
+    },
+    {
+      "month": "OCT",
+      "showTicketLink": false,
+      "ticketLabel": "Tickets & more information",
+      "time": "12:00–8:30 PM",
+      "featured": false,
+      "date": "2026-10-18",
+      "url": "https://www.metconcerts.com/event-details/the-annual-community-telethon-2",
+      "title": "The Annual Community Telethon",
+      "id": "telethon",
+      "image": "/telethon.jpg",
+      "day": "18",
+      "description": "The Annual Community Telethon has supported local organizations and programs since 1979. This annual fundraiser helps the Kitimat Community Foundation respond to immediate needs and build long-term community funds."
+    },
+    {
+      "month": "OCT",
+      "showTicketLink": false,
+      "ticketLabel": "Tickets & more information",
+      "time": "7:30 PM",
+      "featured": false,
+      "date": "2026-10-23",
+      "url": "https://www.metconcerts.com/event-details/kca-presents-michael-kaeshammer",
+      "title": "KCA Presents: Michael Kaeshammer",
+      "id": "kaeshammer",
+      "image": "/kaeshammer.jpg",
+      "day": "23",
+      "description": "Pianist and songwriter Michael Kaeshammer brings his expressive, genre-spanning sound to the MET for a Kitimat Concert Association performance."
+    },
+    {
+      "month": "OCT",
+      "showTicketLink": false,
+      "ticketLabel": "Tickets & more information",
+      "time": "7:00 PM",
+      "featured": false,
+      "date": "2026-11-20",
+      "url": "https://www.metconcerts.com/event-details/full-circle-taylor-bacharach",
+      "title": "Full Circle (Taylor Bacharach)",
+      "id": "full-circle",
+      "image": "/full-circle.png",
+      "day": "24",
+      "description": "A lighthearted documentary following Taylor Bacharach’s self-propelled canoe trip from Smithers through the Northwest."
+    },
+    {
+      "month": "NOV",
+      "showTicketLink": false,
+      "ticketLabel": "Tickets & more information",
+      "time": "7:30 PM",
+      "featured": false,
+      "date": "2026-11-09",
+      "url": "https://www.metconcerts.com/event-details/kca-presents-burnstick",
+      "title": "KCA Presents: Burnstick",
+      "id": "burnstick",
+      "image": "/burnstick.jpg",
+      "day": "09",
+      "description": "Burnstick is the folk duo of Jason and Nadia Burnstick. Lap slide guitar, poetic songwriting and close harmonies carry songs about love, loss and belonging."
+    },
+    {
+      "month": "DEC",
+      "showTicketLink": false,
+      "ticketLabel": "Tickets & more information",
+      "time": "7:30 PM",
+      "featured": false,
+      "date": "2026-12-08",
+      "url": "https://www.metconcerts.com/event-details/kca-presents-casey-thomas",
+      "title": "KCA Presents: Casey Thomas",
+      "id": "casey",
+      "image": "/casey.jpg",
+      "day": "08",
+      "description": "Casey Thomas brings a lively blend of Golden Age jazz and New Orleans spirit to the stage, with vocals and performances full of warmth and energy."
+    },
+    {
+      "month": "JAN",
+      "showTicketLink": false,
+      "ticketLabel": "Tickets & more information",
+      "time": "7:30 PM",
+      "featured": false,
+      "date": "2027-01-15",
+      "url": "https://www.metconcerts.com/event-details/kca-presents-ollee-owens",
+      "title": "KCA Presents: Ollee Owens",
+      "id": "ollee",
+      "image": "/ollee.jpg",
+      "day": "15",
+      "description": "Calgary-based Ollee Owens blends blues rock intensity with soulful vocals and songwriting for an emotionally charged live show."
+    },
+    {
+      "month": "FEB",
+      "showTicketLink": false,
+      "ticketLabel": "Tickets & more information",
+      "time": "7:00 PM",
+      "featured": false,
+      "date": "2027-02-26",
+      "url": "https://www.metconcerts.com/event-details/kca-presents-ballet-jorgen-swan-lake",
+      "title": "KCA Presents: Ballet Jörgen – Swan Lake",
+      "id": "swan-lake",
+      "image": "/swan-lake.jpg",
+      "day": "26",
+      "description": "Ballet Jörgen reimagines Swan Lake with a Canadian setting inspired by the Fortress of Louisbourg in Nova Scotia, while preserving the beauty and drama of the classical ballet."
+    },
+    {
+      "month": "APR",
+      "showTicketLink": false,
+      "ticketLabel": "Tickets & more information",
+      "time": "7:30 PM",
+      "featured": false,
+      "date": "2027-04-01",
+      "url": "https://www.metconcerts.com/event-details/kca-presents-krystle-dos-santos-a-history-of-motown",
+      "title": "KCA Presents: Krystle Dos Santos’ “A History of Motown”",
+      "id": "motown",
+      "image": "/motown.jpg",
+      "day": "01",
+      "description": "Krystle Dos Santos presents A History of Motown, bringing her powerful voice and stage presence to the music and stories of the era."
+    }
+  ],
+  "email": "metconcerts@gmail.com",
   "team": [
     {
       "id": "brenda",
@@ -222,20 +236,6 @@
       "id": "amanda",
       "name": "Amanda Smetaniuk",
       "role": "Casual Administrative"
-    }
-  ],
-  "theatrePhotos": [
-    {
-      "url": "/theatre-auditorium.jpg",
-      "caption": "The auditorium"
-    },
-    {
-      "url": "/theatre-stage.jpg",
-      "caption": "The stage and seating"
-    },
-    {
-      "url": "/theatre-sound-console.jpg",
-      "caption": "Sound control at the MET"
     }
   ]
 }

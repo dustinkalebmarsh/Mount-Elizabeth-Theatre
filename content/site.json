@@ -75,6 +75,24 @@
   "documents": [],
   "events": [
     {
+      "featured": true,
+      "showTicketLink": false,
+      "image": "/uploads/827748507_10175453693035501_8548746751979970256_n.jpg",
+      "date": "2026-10-05",
+      "time": "7:00",
+      "title": "MEMSS School Trustee Election ",
+      "id": "MEMSS School Trustee Election "
+    },
+    {
+      "featured": true,
+      "showTicketLink": false,
+      "date": "2026-10-08",
+      "title": "Provincial All Candidates Forum",
+      "image": "/uploads/51fa253e-2aba-45e1-bd48-49adfb061748.png",
+      "time": "7:00",
+      "id": "Provincial All Candidates Forum"
+    },
+    {
       "month": "OCT",
       "showTicketLink": false,
       "ticketLabel": "Tickets & more information",
@@ -186,24 +204,6 @@
       "image": "/motown.jpg",
       "day": "01",
       "description": "Krystle Dos Santos presents A History of Motown, bringing her powerful voice and stage presence to the music and stories of the era."
-    },
-    {
-      "featured": true,
-      "showTicketLink": false,
-      "date": "2026-10-08",
-      "title": "Provincial All Candidates Forum",
-      "image": "/uploads/51fa253e-2aba-45e1-bd48-49adfb061748.png",
-      "time": "7:00",
-      "id": "Provincial All Candidates Forum"
-    },
-    {
-      "featured": true,
-      "showTicketLink": false,
-      "image": "/uploads/827748507_10175453693035501_8548746751979970256_n.jpg",
-      "date": "2026-10-05",
-      "time": "7:00",
-      "title": "MEMSS School Trustee Election ",
-      "id": "MEMSS School Trustee Election "
     }
   ],
   "email": "metconcerts@gmail.com",

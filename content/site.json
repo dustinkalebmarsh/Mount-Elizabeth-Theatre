@@ -78,34 +78,6 @@
       "month": "OCT",
       "showTicketLink": false,
       "ticketLabel": "Tickets & more information",
-      "time": "7:00 PM",
-      "featured": true,
-      "date": "2026-10-01",
-      "url": "https://www.metconcerts.com/event-details/all-candidates-forum",
-      "title": "All Candidates Forum",
-      "id": "forum",
-      "image": "/forum.png",
-      "day": "01",
-      "description": "The Kitimat All Candidates Forum gives residents a chance to hear from local candidates before the municipal election. Candidates will discuss community issues and answer questions. Attend in person or watch the live stream."
-    },
-    {
-      "month": "OCT",
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information",
-      "time": "7:00 PM",
-      "featured": true,
-      "date": "2026-10-02",
-      "url": "https://www.metconcerts.com/event-details/banff-mountain-film-festival-2026",
-      "title": "Banff Mountain Film Festival 2026",
-      "id": "banff",
-      "image": "/banff.png",
-      "day": "02",
-      "description": "The Banff Mountain Film Festival brings an evening of adventure films to the big screen at the MET."
-    },
-    {
-      "month": "OCT",
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information",
       "time": "12:00–8:30 PM",
       "featured": false,
       "date": "2026-10-18",
@@ -214,6 +186,24 @@
       "image": "/motown.jpg",
       "day": "01",
       "description": "Krystle Dos Santos presents A History of Motown, bringing her powerful voice and stage presence to the music and stories of the era."
+    },
+    {
+      "featured": true,
+      "showTicketLink": false,
+      "date": "2026-10-08",
+      "title": "Provincial All Candidates Forum",
+      "image": "/uploads/51fa253e-2aba-45e1-bd48-49adfb061748.png",
+      "time": "7:00",
+      "id": "Provincial All Candidates Forum"
+    },
+    {
+      "featured": true,
+      "showTicketLink": false,
+      "image": "/uploads/827748507_10175453693035501_8548746751979970256_n.jpg",
+      "date": "2026-10-05",
+      "time": "7:00",
+      "title": "MEMSS School Trustee Election ",
+      "id": "MEMSS School Trustee Election "
     }
   ],
   "email": "metconcerts@gmail.com",

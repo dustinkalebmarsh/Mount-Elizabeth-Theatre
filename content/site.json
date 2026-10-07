@@ -75,24 +75,15 @@
   "documents": [],
   "events": [
     {
-      "featured": true,
-      "showTicketLink": false,
-      "image": "/uploads/827748507_10175453693035501_8548746751979970256_n.jpg",
-      "date": "2026-10-05",
+      "showTicketLink": true,
       "time": "7:00",
-      "title": "MEMSS School Trustee Election ",
-      "id": "school-trustee-election",
-      "description": "Live Stream Link https://boxcast.tv/view/school-trustee-forum-cpqdc3rfhfhkt4midk1l"
-    },
-    {
       "featured": true,
-      "showTicketLink": false,
       "date": "2026-10-08",
+      "url": "https://boxcast.tv/view/all-candidates-debate-mla---skeena-riding-ljsffxv0hbwv4yagfakr",
       "title": "Provincial All Candidates Forum",
-      "image": "/uploads/836444777_1525011652994449_3166226634570477770_n.jpg",
-      "time": "7:00",
       "id": "provincial-all-candidates-forum",
-      "description": "Live Stream Link https://boxcast.tv/view/all-candidates-debate-mla---skeena-riding-ljsffxv0hbwv4yagfakr"
+      "image": "/uploads/836444777_1525011652994449_3166226634570477770_n.jpg",
+      "description": "Live Stream Link "
     },
     {
       "month": "OCT",

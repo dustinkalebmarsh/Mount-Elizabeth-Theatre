@@ -22,3 +22,9 @@
 .event-video{margin:30px 0}.event-video h2{font:500 26px Oswald;margin:0 0 14px}.event-video iframe{display:block;width:100%;aspect-ratio:16/9;border:0;background:#000}
 
 [data-event-date][hidden]{display:none!important}
+.feature > img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+}

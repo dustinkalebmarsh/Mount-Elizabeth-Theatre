@@ -75,32 +75,6 @@
   "documents": [],
   "events": [
     {
-      "showTicketLink": true,
-      "ticketLabel": "Boxcast Link",
-      "time": "7:00",
-      "featured": true,
-      "date": "2026-10-08",
-      "url": "https://boxcast.tv/view/all-candidates-debate-mla---skeena-riding-ljsffxv0hbwv4yagfakr",
-      "title": "Provincial All Candidates Forum",
-      "id": "provincial-all-candidates-forum",
-      "image": "/uploads/836444777_1525011652994449_3166226634570477770_n.jpg",
-      "description": "Live Stream Link "
-    },
-    {
-      "month": "OCT",
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information",
-      "time": "12:00–8:30 PM",
-      "featured": false,
-      "date": "2026-10-18",
-      "url": "https://www.metconcerts.com/event-details/the-annual-community-telethon-2",
-      "title": "The Annual Community Telethon",
-      "id": "telethon",
-      "image": "/telethon.jpg",
-      "day": "18",
-      "description": "The Annual Community Telethon has supported local organizations and programs since 1979. This annual fundraiser helps the Kitimat Community Foundation respond to immediate needs and build long-term community funds."
-    },
-    {
       "month": "OCT",
       "showTicketLink": false,
       "ticketLabel": "Tickets & more information",
@@ -198,6 +172,17 @@
       "image": "/motown.jpg",
       "day": "01",
       "description": "Krystle Dos Santos presents A History of Motown, bringing her powerful voice and stage presence to the music and stories of the era."
+    },
+    {
+      "showTicketLink": true,
+      "time": "12:00PM - 8:00PM",
+      "featured": true,
+      "date": "2026-10-18",
+      "url": "https://boxcast.tv/view/2026-annual-community-telethon-tdatop075d4glwshlnnh",
+      "title": "Annual Community Telethon",
+      "id": "annual_community_telethon ",
+      "image": "/uploads/act.jpeg",
+      "description": "Join us at the Mount Elizabeth Theatre on Sunday, October 18, for Kitimat’s Annual Community Telethon! Enjoy local talent, community spirit, and a live broadcast as we come together to support our community. Tune in, cheer on the performers, and help make this year’s telethon a success!"
     }
   ],
   "email": "metconcerts@gmail.com",

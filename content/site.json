@@ -175,6 +175,7 @@
     },
     {
       "showTicketLink": true,
+      "ticketLabel": "LINK TO LIVESTREAM ",
       "time": "12:00PM - 8:00PM",
       "featured": true,
       "date": "2026-10-18",

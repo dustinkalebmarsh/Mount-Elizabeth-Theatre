@@ -75,23 +75,11 @@
   "documents": [],
   "events": [
     {
-      "showTicketLink": true,
-      "ticketLabel": "Watch the Livestream",
-      "time": "12:00PM - 8:00PM",
-      "featured": true,
-      "date": "2026-10-18",
-      "url": "https://boxcast.tv/view/2026-annual-community-telethon-tdatop075d4glwshlnnh",
-      "title": "Annual Community Telethon",
-      "id": "annual-community-telethon",
-      "image": "/uploads/act.jpeg",
-      "description": "Join us at the Mount Elizabeth Theatre on Sunday, October 18, for Kitimat’s Annual Community Telethon! Enjoy local talent, community spirit, and a live broadcast as we come together to support our community. Tune in, cheer on the performers, and help make this year’s telethon a success!"
-    },
-    {
       "month": "OCT",
       "showTicketLink": false,
       "ticketLabel": "Tickets & more information",
       "time": "7:30 PM",
-      "featured": false,
+      "featured": true,
       "date": "2026-10-23",
       "url": "https://www.metconcerts.com/event-details/kca-presents-michael-kaeshammer",
       "title": "KCA Presents: Michael Kaeshammer",

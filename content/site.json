@@ -113,7 +113,7 @@
       "url": "https://www.metconcerts.com/event-details/kca-presents-burnstick",
       "title": "KCA Presents: Burnstick",
       "id": "burnstick",
-      "image": "/uploads/602c8b_071fed0511274669b82772eab051ff82~mv2.avif",
+      "image": "/uploads/burn-stick.jpg",
       "day": "09",
       "description": "Burnstick is the folk duo of Jason and Nadia Burnstick. Lap slide guitar, poetic songwriting and close harmonies carry songs about love, loss and belonging."
     },
@@ -142,7 +142,7 @@
       "url": "https://www.metconcerts.com/event-details/kca-presents-ollee-owens",
       "title": "KCA Presents: Ollee Owens",
       "id": "ollee",
-      "image": "/ollee.jpg",
+      "image": "/uploads/ollee.jpg",
       "day": "15",
       "description": "Calgary-based Ollee Owens blends blues rock intensity with soulful vocals and songwriting for an emotionally charged live show."
     },
@@ -164,13 +164,14 @@
       "month": "APR",
       "showTicketLink": false,
       "ticketLabel": "Tickets & more information",
+      "youtubeUrl": "https://www.youtube.com/watch?v=f78_7HzI-B4",
       "time": "7:30 PM",
       "featured": false,
       "date": "2027-04-01",
       "url": "https://www.metconcerts.com/event-details/kca-presents-krystle-dos-santos-a-history-of-motown",
       "title": "KCA Presents: Krystle Dos Santos’ “A History of Motown”",
       "id": "motown",
-      "image": "/motown.jpg",
+      "image": "/uploads/krystle.jpg",
       "day": "01",
       "description": "Krystle Dos Santos presents A History of Motown, bringing her powerful voice and stage presence to the music and stories of the era."
     }

@@ -90,6 +90,17 @@
       "description": "Burnstick is the folk duo of Jason and Nadia Burnstick. Lap slide guitar, poetic songwriting and close harmonies carry songs about love, loss and belonging."
     },
     {
+      "showTicketLink": false,
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
+      "time": "1:00pm",
+      "featured": false,
+      "date": "2026-11-15",
+      "title": "Movies at the MET : Minions & Monsters",
+      "id": "Minions",
+      "image": "/uploads/minion-monsters-digital.png",
+      "description": "**Minions & Monsters (2026)**\n\nThe Minions are back for another hilarious adventure! This time, our favourite yellow troublemakers take Hollywood by storm, becoming movie stars before accidentally unleashing real monsters into the world. Now, they'll have to work together to save the day from the chaos they created!\n\nPacked with laughs, mischief, and monster-sized fun, *Minions & Monsters* is a family adventure you won't want to miss!"
+    },
+    {
       "month": "OCT",
       "showTicketLink": false,
       "ticketLabel": "Tickets & more information",
@@ -181,17 +192,6 @@
       "id": "laurie-white-2",
       "time": "7:00",
       "title": "Laurie White - A Story of Adversity, Recovery & The Power of Connection"
-    },
-    {
-      "showTicketLink": false,
-      "youtubeUrl": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
-      "time": "1:00pm",
-      "featured": false,
-      "date": "2026-11-15",
-      "title": "Movies at the MET : Minions & Monsters",
-      "id": "Minions",
-      "image": "/uploads/minion-monsters-digital.png",
-      "description": "**Minions & Monsters (2026)**\n\nThe Minions are back for another hilarious adventure! This time, our favourite yellow troublemakers take Hollywood by storm, becoming movie stars before accidentally unleashing real monsters into the world. Now, they'll have to work together to save the day from the chaos they created!\n\nPacked with laughs, mischief, and monster-sized fun, *Minions & Monsters* is a family adventure you won't want to miss!"
     },
     {
       "showTicketLink": false,

@@ -75,19 +75,19 @@
   "documents": [],
   "events": [
     {
-      "month": "OCT",
+      "month": "NOV",
       "showTicketLink": false,
       "ticketLabel": "Tickets & more information",
-      "youtubeUrl": "https://www.youtube.com/watch?v=QZCHwExm4hU",
+      "youtubeUrl": "https://www.youtube.com/watch?v=178xd3_q9mk",
       "time": "7:30 PM",
       "featured": true,
-      "date": "2026-10-23",
-      "url": "https://www.metconcerts.com/event-details/kca-presents-michael-kaeshammer",
-      "title": "KCA Presents: Michael Kaeshammer",
-      "id": "kaeshammer",
-      "image": "/uploads/michael-kaeshammer.jpg",
-      "day": "23",
-      "description": "Pianist and songwriter Michael Kaeshammer brings his expressive, genre-spanning sound to the MET for a Kitimat Concert Association performance."
+      "date": "2026-11-09",
+      "url": "https://www.metconcerts.com/event-details/kca-presents-burnstick",
+      "title": "KCA Presents: Burnstick",
+      "id": "burnstick",
+      "image": "/uploads/burn-stick.jpg",
+      "day": "09",
+      "description": "Burnstick is the folk duo of Jason and Nadia Burnstick. Lap slide guitar, poetic songwriting and close harmonies carry songs about love, loss and belonging."
     },
     {
       "month": "OCT",
@@ -102,21 +102,6 @@
       "image": "/full-circle.png",
       "day": "24",
       "description": "A lighthearted documentary following Taylor Bacharach’s self-propelled canoe trip from Smithers through the Northwest."
-    },
-    {
-      "month": "NOV",
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information",
-      "youtubeUrl": "https://www.youtube.com/watch?v=178xd3_q9mk",
-      "time": "7:30 PM",
-      "featured": true,
-      "date": "2026-11-09",
-      "url": "https://www.metconcerts.com/event-details/kca-presents-burnstick",
-      "title": "KCA Presents: Burnstick",
-      "id": "burnstick",
-      "image": "/uploads/burn-stick.jpg",
-      "day": "09",
-      "description": "Burnstick is the folk duo of Jason and Nadia Burnstick. Lap slide guitar, poetic songwriting and close harmonies carry songs about love, loss and belonging."
     },
     {
       "month": "DEC",
@@ -196,6 +181,28 @@
       "id": "laurie-white-2",
       "time": "7:00",
       "title": "Laurie White - A Story of Adversity, Recovery & The Power of Connection"
+    },
+    {
+      "showTicketLink": false,
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
+      "time": "1:00pm",
+      "featured": false,
+      "date": "2026-11-15",
+      "title": "Movies at the MET : Minions & Monsters",
+      "id": "Minions-movie",
+      "image": "/uploads/minion-monsters-digital.png",
+      "description": "**Minions & Monsters (2026)**\n\nThe Minions are back for another hilarious adventure! This time, our favourite yellow troublemakers take Hollywood by storm, becoming movie stars before accidentally unleashing real monsters into the world. Now, they'll have to work together to save the day from the chaos they created!\n\nPacked with laughs, mischief, and monster-sized fun, *Minions & Monsters* is a family adventure you won't want to miss!"
+    },
+    {
+      "showTicketLink": false,
+      "youtubeUrl": "https://www.youtube.com/watch?v=uwild1rw7Aw",
+      "time": "7:00pm",
+      "featured": false,
+      "date": "2026-11-13",
+      "title": "Movies at the MET : Star Wars: The Mandalorian and Grogu ",
+      "id": "movie-mando",
+      "image": "/uploads/mando-grogu-digital.png",
+      "description": "**Star Wars: The Mandalorian and Grogu (2026)**\n\nThe galaxy's favourite duo is back for an epic big-screen adventure! With the Empire defeated but new threats emerging, legendary bounty hunter Din Djarin and his adorable apprentice Grogu are called upon to help the New Republic restore peace. Packed with thrilling space battles, exciting new characters, and plenty of heartwarming moments, this action-packed Star Wars adventure is a must-see for fans of all ages!"
     }
   ],
   "email": "metconcerts@gmail.com",

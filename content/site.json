@@ -76,6 +76,17 @@
   "events": [
     {
       "showTicketLink": false,
+      "youtubeUrl": "https://www.youtube.com/watch?v=uwild1rw7Aw",
+      "time": "7:00pm",
+      "featured": true,
+      "date": "2026-11-13",
+      "title": "Movies at the MET : Star Wars: The Mandalorian and Grogu ",
+      "id": "mando",
+      "image": "/uploads/mando-grogu-digital.png",
+      "description": "**Star Wars: The Mandalorian and Grogu (2026)**\n\nThe galaxy's favourite duo is back for an epic big-screen adventure! With the Empire defeated but new threats emerging, legendary bounty hunter Din Djarin and his adorable apprentice Grogu are called upon to help the New Republic restore peace. Packed with thrilling space battles, exciting new characters, and plenty of heartwarming moments, this action-packed Star Wars adventure is a must-see for fans of all ages!"
+    },
+    {
+      "showTicketLink": false,
       "youtubeUrl": "https://www.youtube.com/watch?v=ZSdOwt-G49w",
       "time": "1:00pm",
       "featured": true,
@@ -177,17 +188,6 @@
       "id": "laurie-white-2",
       "time": "7:00",
       "title": "Laurie White - A Story of Adversity, Recovery & The Power of Connection"
-    },
-    {
-      "showTicketLink": false,
-      "youtubeUrl": "https://www.youtube.com/watch?v=uwild1rw7Aw",
-      "time": "7:00pm",
-      "featured": true,
-      "date": "2026-11-13",
-      "title": "Movies at the MET : Star Wars: The Mandalorian and Grogu ",
-      "id": "mando",
-      "image": "/uploads/mando-grogu-digital.png",
-      "description": "**Star Wars: The Mandalorian and Grogu (2026)**\n\nThe galaxy's favourite duo is back for an epic big-screen adventure! With the Empire defeated but new threats emerging, legendary bounty hunter Din Djarin and his adorable apprentice Grogu are called upon to help the New Republic restore peace. Packed with thrilling space battles, exciting new characters, and plenty of heartwarming moments, this action-packed Star Wars adventure is a must-see for fans of all ages!"
     }
   ],
   "email": "metconcerts@gmail.com",

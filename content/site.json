@@ -166,6 +166,25 @@
       "image": "/uploads/krystle.jpg",
       "day": "01",
       "description": "Krystle Dos Santos presents A History of Motown, bringing her powerful voice and stage presence to the music and stories of the era."
+    },
+    {
+      "featured": false,
+      "showTicketLink": false,
+      "id": "rhinoceros15",
+      "date": "2026-12-15",
+      "image": "/uploads/rhinoceros-play-poster.jpg",
+      "title": "MEMMS French Immersion Presents: Rhinoceros ",
+      "time": "1:00pm",
+      "description": "**MEMSS French Immersion Presents: Rhinocéros**\n\nJoin the talented students of MEMSS French Immersion for their production of *Rhinocéros* at Mount Elizabeth Theatre!\n\nEnjoy an entertaining and thought-provoking theatrical performance as students bring this unique story to life on stage.\n\n**Performance Dates:**\n- Tuesday, December 15 at 1:00 PM\n- Wednesday, December 16 at 7:00 PM\n\n**Location:** Mount Elizabeth Theatre\n\n**Admission:** By donation\n\nAll proceeds will support the **Kitimat Humane Society** and **Kitimat Food Bank**.\n\nCome out and support our talented young performers while giving back to two wonderful community organizations!"
+    },
+    {
+      "featured": false,
+      "showTicketLink": false,
+      "id": "rhinoceros16",
+      "date": "2026-12-16",
+      "time": "7:00pm",
+      "title": "MEMMS French Immersion Presents: Rhinoceros ",
+      "description": "**MEMSS French Immersion Presents: Rhinocéros**\n\nJoin the talented students of MEMSS French Immersion for their production of *Rhinocéros* at Mount Elizabeth Theatre!\n\nEnjoy an entertaining and thought-provoking theatrical performance as students bring this unique story to life on stage.\n\n**Performance Dates:**\n- Tuesday, December 15 at 1:00 PM\n- Wednesday, December 16 at 7:00 PM\n\n**Location:** Mount Elizabeth Theatre\n\n**Admission:** By donation\n\nAll proceeds will support the **Kitimat Humane Society** and **Kitimat Food Bank**.\n\nCome out and support our talented young performers while giving back to two wonderful community organizations!"
     }
   ],
   "email": "metconcerts@gmail.com",

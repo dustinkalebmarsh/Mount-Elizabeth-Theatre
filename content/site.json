@@ -1,95 +1,19 @@
 {
-  "heroImage": "/theatre-stage.jpg",
-  "intro": "Kitimat’s home for the performing arts.",
-  "motto": "Fostering Excellence-Building Community",
-  "about": "The Mount Elizabeth Theatre is Kitimat’s home for the performing arts. It is a joint-use facility of Coast Mountains School District 82 and the District of Kitimat. Our 500-seat auditorium is intimate and flexible, equally suited to musicals, concerts, dance, film, conferences, ceremonies and community gatherings. Performers and presenters can rely on professional sound and lighting, dedicated dressing rooms and a concert grand piano. Patrons enjoy accessible seating and on-site parking. The MET continues to evolve, driven by strong partnerships, and a shared vision of keeping live arts alive and accessible in Kitimat.",
-  "phone": "250-632-7887",
-  "gallery": [
-    "/theatre-spec-1.png",
-    "/theatre-spec-2.png",
-    "/theatre-spec-3.png"
-  ],
   "headline": "Mount Elizabeth Theatre",
+  "motto": "Fostering Excellence-Building Community",
+  "intro": "Kitimat’s home for the performing arts.",
+  "heroImage": "/theatre-stage.jpg",
+  "about": "The Mount Elizabeth Theatre is Kitimat’s home for the performing arts. It is a joint-use facility of Coast Mountains School District 82 and the District of Kitimat. Our 500-seat auditorium is intimate and flexible, equally suited to musicals, concerts, dance, film, conferences, ceremonies and community gatherings. Performers and presenters can rely on professional sound and lighting, dedicated dressing rooms and a concert grand piano. Patrons enjoy accessible seating and on-site parking. The MET continues to evolve, driven by strong partnerships, and a shared vision of keeping live arts alive and accessible in Kitimat.",
   "address": "1491 Kingfisher Ave, Kitimat, BC",
-  "specs": [
-    {
-      "id": "stage",
-      "title": "Stage",
-      "body": "Stage Type: Apron\nStage Width: 41 ft / 12.6 m\nStage Depth: 29.5 ft / 9.1 m\nStage Height: 16.5 ft / 5.1 m\nApron Depth: 14 ft / 4.3 m\nStage to Grid: 46 ft / 14 m\nFrom back wall to mid-stage curtain: 16.7 ft / 5.1 m\nFrom front of apron to mid-stage curtain: 27.9 ft / 8.5 m\nWing — Stage Left: 13 ft / 4.0 m\nWing — Stage Right: 34 ft / 10.5 m\nStage: Painted matte black plywood. Trap door and stage elevator not available.\nFly System: Yes\nSprung Floor: Yes\nChoral Risers: Yes\nAcoustic Shell: No\nOrchestra Pit and Seating: Not available\nCyclorama: Yes\nPiano: Baldwin Grand; upright"
-    },
-    {
-      "id": "sound",
-      "title": "Sound",
-      "body": "Complete sound system; control booth at rear of house\nBoard: Behringer Wing Digital\nStage Box: Behringer S32 (stage right)\nStage Box: Behringer S32 (stage left)\nJBL VRX Line Array System\n(2) JBL SRX 15″ Powered Monitors\n(4) JBL SRX 12″ Powered Monitors\n(1) Shure PSM 300 Wireless In-Ear Monitor"
-    },
-    {
-      "id": "wireless",
-      "title": "Wireless",
-      "body": "(1) Shure ULXD4Q Wireless Receiver\n(6) Shure ULXP4 Wireless Transmitters\n(5) Shure Wireless SM58 Mic Systems\n(2) Shure Wireless Beta58 Mic Systems\n(8) Shure Wireless Beltpack Mic Systems\n(8) Countryman H6 Headsets\n(1) Countryman E6 Earset\n(2) Countryman B3 Omnidirectional Lavaliers"
-    },
-    {
-      "id": "direct-boxes",
-      "title": "Direct Boxes",
-      "body": "(2) Radial J48 Active Direct Boxes\n(1) Leem FDR60 Filter DI\n(3) ARTccessories Zdirect Passive DIs\n(1) Yorkville YDI-1P Passive DI"
-    },
-    {
-      "id": "projector",
-      "title": "Projector",
-      "body": "Epson Power Lite Prp Z8350W\nVGA hookup on stage\nVGA and HDMI in booth\n\nDistance to projection screen: 58 ft; screen size 41 ft wide × 16 ft high\nDistance to cyc: 81 ft; screen size 41 ft 8 in wide × 16 ft high"
-    },
-    {
-      "id": "backstage",
-      "title": "Backstage",
-      "body": "Loading: 10 ft 5 in wide × 8 ft high; ground-level doors to stage-right wing\nParking: Overnight parking lot adjacent to backstage entrance\nRehearsal Space: Yes\nDressing Rooms: Yes\nGreen Room: Yes (must be written into the contract)"
-    },
-    {
-      "id": "lighting",
-      "title": "Lighting",
-      "body": "Complete lighting system; control booth at rear of house\nDimmers: 192 Strand CD80, one dimmer per channel\nBoard: ETC Ion XE\n(24) ETC ColorSource Spot with 25–50° Zoom Lens\n(7) ETC ColorSource Spot with cyc adaptor\n(8) ETC ColorSource LED PARs\n(8) ETC Source Four 26°\n(12) 8″ Fresnels, 750 W\n(24) 6″ Fresnels, 500 W\n(2) Robe ColorSpot 250\n(3) Mac Encore Professional CLD"
-    },
-    {
-      "id": "livestream",
-      "title": "Live Stream",
-      "body": "Blackmagic live stream system"
-    },
-    {
-      "id": "microphones",
-      "title": "Microphones",
-      "body": "(5) Shure SM57 Instrument Microphones\n(8) Shure SM58 Vocal Microphones\n(2) Shure SM81 Condenser Instrument Microphones\n(4) Shure SM86 Condenser Vocal Microphones\n(2) Shure SM94 Condenser Instrument Microphones\n(4) Shure EZO Easyflex Overhead Microphones (hung)\n(1) Shure Beta 52A Kick Drum Mic\n(3) AKG D880 Vocal Microphones\n(1) AKG D3800 Vocal Microphone\n(4) Sennheiser e604 Drum Mics"
-    }
-  ],
-  "theatrePhotos": [
-    {
-      "url": "/theatre-auditorium.jpg",
-      "caption": "The auditorium"
-    },
-    {
-      "url": "/theatre-stage.jpg",
-      "caption": "The stage and seating"
-    },
-    {
-      "url": "/theatre-sound-console.jpg",
-      "caption": "Sound control at the MET"
-    }
-  ],
-  "documents": [],
+  "phone": "250-632-7887",
+  "email": "metconcerts@gmail.com",
   "events": [
-    {
-      "featured": true,
-      "showTicketLink": false,
-      "description": "JOINT RIO TINTO & UNIFOR 2301 EFAP COMMITTEE PRESENTS\nLAURIE WHITE\n10-33: An Officer Down Steps Back Up\nA STORY OF ADVERSITY, RECOVERY & THE POWER OF CONNECTION\nJoin us for a powerful and inspiring presentation with Laurie White, a retired RCMP officer, author and advocate.\nIn 1998, a life-changing incident set Laurie on an unexpected path. Through her deeply personal story, Laurie shares her experiences with adversity, trauma, grief and recovery, and how the support of others, connection and community can help us find strength and a way forward.\n📅 EVENT DATES & TIMES\nMonday, November 16, 2026 🕖 7:00 PM\nTuesday, November 17, 2026 🕐 7:00 PM\n📍 LOCATION Mount Elizabeth Theatre\n👥 AGE GROUP 14+\nOPEN TO ALL MEMBERS, EMPLOYEES AND FAMILIES, RETIREES AND GENERAL PUBLIC",
-      "image": "/uploads/888451394_10164302590638227_213125794563948829_n.jpg",
-      "date": "2026-11-17",
-      "id": "laurie-white-2",
-      "time": "7:00",
-      "title": "Laurie White - A Story of Adversity, Recovery & The Power of Connection"
-    },
     {
       "month": "OCT",
       "showTicketLink": false,
       "ticketLabel": "Tickets & more information",
       "time": "7:00 PM",
-      "featured": false,
+      "featured": true,
       "date": "2026-11-20",
       "url": "https://www.metconcerts.com/event-details/full-circle-taylor-bacharach",
       "title": "Full Circle (Taylor Bacharach)",
@@ -178,7 +102,73 @@
       "description": "Krystle Dos Santos presents A History of Motown, bringing her powerful voice and stage presence to the music and stories of the era."
     }
   ],
-  "email": "metconcerts@gmail.com",
+  "theatrePhotos": [
+    {
+      "url": "/theatre-auditorium.jpg",
+      "caption": "The auditorium"
+    },
+    {
+      "url": "/theatre-stage.jpg",
+      "caption": "The stage and seating"
+    },
+    {
+      "url": "/theatre-sound-console.jpg",
+      "caption": "Sound control at the MET"
+    }
+  ],
+  "specs": [
+    {
+      "id": "stage",
+      "title": "Stage",
+      "body": "Stage Type: Apron\nStage Width: 41 ft / 12.6 m\nStage Depth: 29.5 ft / 9.1 m\nStage Height: 16.5 ft / 5.1 m\nApron Depth: 14 ft / 4.3 m\nStage to Grid: 46 ft / 14 m\nFrom back wall to mid-stage curtain: 16.7 ft / 5.1 m\nFrom front of apron to mid-stage curtain: 27.9 ft / 8.5 m\nWing — Stage Left: 13 ft / 4.0 m\nWing — Stage Right: 34 ft / 10.5 m\nStage: Painted matte black plywood. Trap door and stage elevator not available.\nFly System: Yes\nSprung Floor: Yes\nChoral Risers: Yes\nAcoustic Shell: No\nOrchestra Pit and Seating: Not available\nCyclorama: Yes\nPiano: Baldwin Grand; upright"
+    },
+    {
+      "id": "sound",
+      "title": "Sound",
+      "body": "Complete sound system; control booth at rear of house\nBoard: Behringer Wing Digital\nStage Box: Behringer S32 (stage right)\nStage Box: Behringer S32 (stage left)\nJBL VRX Line Array System\n(2) JBL SRX 15″ Powered Monitors\n(4) JBL SRX 12″ Powered Monitors\n(1) Shure PSM 300 Wireless In-Ear Monitor"
+    },
+    {
+      "id": "wireless",
+      "title": "Wireless",
+      "body": "(1) Shure ULXD4Q Wireless Receiver\n(6) Shure ULXP4 Wireless Transmitters\n(5) Shure Wireless SM58 Mic Systems\n(2) Shure Wireless Beta58 Mic Systems\n(8) Shure Wireless Beltpack Mic Systems\n(8) Countryman H6 Headsets\n(1) Countryman E6 Earset\n(2) Countryman B3 Omnidirectional Lavaliers"
+    },
+    {
+      "id": "direct-boxes",
+      "title": "Direct Boxes",
+      "body": "(2) Radial J48 Active Direct Boxes\n(1) Leem FDR60 Filter DI\n(3) ARTccessories Zdirect Passive DIs\n(1) Yorkville YDI-1P Passive DI"
+    },
+    {
+      "id": "projector",
+      "title": "Projector",
+      "body": "Epson Power Lite Prp Z8350W\nVGA hookup on stage\nVGA and HDMI in booth\n\nDistance to projection screen: 58 ft; screen size 41 ft wide × 16 ft high\nDistance to cyc: 81 ft; screen size 41 ft 8 in wide × 16 ft high"
+    },
+    {
+      "id": "backstage",
+      "title": "Backstage",
+      "body": "Loading: 10 ft 5 in wide × 8 ft high; ground-level doors to stage-right wing\nParking: Overnight parking lot adjacent to backstage entrance\nRehearsal Space: Yes\nDressing Rooms: Yes\nGreen Room: Yes (must be written into the contract)"
+    },
+    {
+      "id": "lighting",
+      "title": "Lighting",
+      "body": "Complete lighting system; control booth at rear of house\nDimmers: 192 Strand CD80, one dimmer per channel\nBoard: ETC Ion XE\n(24) ETC ColorSource Spot with 25–50° Zoom Lens\n(7) ETC ColorSource Spot with cyc adaptor\n(8) ETC ColorSource LED PARs\n(8) ETC Source Four 26°\n(12) 8″ Fresnels, 750 W\n(24) 6″ Fresnels, 500 W\n(2) Robe ColorSpot 250\n(3) Mac Encore Professional CLD"
+    },
+    {
+      "id": "livestream",
+      "title": "Live Stream",
+      "body": "Blackmagic live stream system"
+    },
+    {
+      "id": "microphones",
+      "title": "Microphones",
+      "body": "(5) Shure SM57 Instrument Microphones\n(8) Shure SM58 Vocal Microphones\n(2) Shure SM81 Condenser Instrument Microphones\n(4) Shure SM86 Condenser Vocal Microphones\n(2) Shure SM94 Condenser Instrument Microphones\n(4) Shure EZO Easyflex Overhead Microphones (hung)\n(1) Shure Beta 52A Kick Drum Mic\n(3) AKG D880 Vocal Microphones\n(1) AKG D3800 Vocal Microphone\n(4) Sennheiser e604 Drum Mics"
+    }
+  ],
+  "gallery": [
+    "/theatre-spec-1.png",
+    "/theatre-spec-2.png",
+    "/theatre-spec-3.png"
+  ],
+  "documents": [],
   "team": [
     {
       "id": "brenda",

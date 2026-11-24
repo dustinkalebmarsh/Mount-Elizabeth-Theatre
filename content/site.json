@@ -9,26 +9,12 @@
   "email": "metconcerts@gmail.com",
   "events": [
     {
-      "month": "OCT",
-      "showTicketLink": false,
-      "ticketLabel": "Tickets & more information",
-      "time": "7:00 PM",
-      "featured": true,
-      "date": "2026-11-20",
-      "url": "https://www.metconcerts.com/event-details/full-circle-taylor-bacharach",
-      "title": "Full Circle (Taylor Bacharach)",
-      "id": "full-circle",
-      "image": "/full-circle.png",
-      "day": "24",
-      "description": "A lighthearted documentary following Taylor Bacharach’s self-propelled canoe trip from Smithers through the Northwest."
-    },
-    {
       "month": "DEC",
       "showTicketLink": false,
       "ticketLabel": "Tickets & more information",
       "youtubeUrl": "https://www.youtube.com/watch?v=AmpcvQM_dxE",
       "time": "7:30 PM",
-      "featured": false,
+      "featured": true,
       "date": "2026-12-08",
       "url": "https://www.metconcerts.com/event-details/kca-presents-casey-thomas",
       "title": "KCA Presents: Casey Thomas-Burns",
